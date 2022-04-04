@@ -1,0 +1,29 @@
+{
+    "version": "3.2.0",
+    "description": "Image similarity comparison simulating human perception (multiscale SSIM in Rust)",
+    "homepage": "https://kornel.ski/dssim",
+    "license": "AGPL-3.0-only",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kornelski/dssim/releases/download/3.2.0/dssim-3.2.0.zip",
+            "hash": "d4fdc3a885c59c5c984cb1ac3d022713329340d4b1bf1197e9aa316b9bf62a92",
+            "extract_dir": "win"
+        }
+    },
+    "bin": [
+        [
+            "dssim.exe",
+            "dssim"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/kornelski/dssim"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/kornelski/dssim/releases/download/$version/dssim-$version.zip"
+            }
+        }
+    }
+}
