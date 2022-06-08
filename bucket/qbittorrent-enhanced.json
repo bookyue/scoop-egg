@@ -24,12 +24,12 @@
     ],
     "checkver": {
         "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/latest",
-        "regex": "qbittorrent_enhanced_([\\d.]+)_setup\\.exe"
+        "regex": "qbittorrent_enhanced_([\\d.]+)_Qt6_setup\\.exe"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-$version/qbittorrent_enhanced_$version_Qt6_x64_setup.exe#/dl.7z"
+                "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-$version/qbittorrent_enhanced_$version_Qt6_setup.exe#/dl.7z"
             },
             "32bit": {
                 "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-$version/qbittorrent_enhanced_$version_setup.exe#/dl.7z"
