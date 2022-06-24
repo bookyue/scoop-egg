@@ -1,10 +1,10 @@
 {
-    "version": "0.23.0",
+    "version": "0.23.1",
     "description": "HFS is a file server offering a virtual file system (vfs). You can easily share a single file instead of the whole folder, or you can rename it, but without touching the real file, just virtually.",
     "homepage": "https://github.com/rejetto/hfs",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/rejetto/hfs/releases/download/v0.23.0/hfs-windows.zip",
-    "hash": "5e273f95dcb297bfa244aba38f83eccb5c96b044de3ee5eb02f860b4fb5ff5cf",
+    "url": "https://github.com/rejetto/hfs/releases/download/v0.23.1/hfs-windows.zip",
+    "hash": "c27d1937bb20b1eb1158d1e9058f0403c0d79758f4f5b7805dc3266496c97c4e",
     "shortcuts": [
         [
             "hfs.exe",
