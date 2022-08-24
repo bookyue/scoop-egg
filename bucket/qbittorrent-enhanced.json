@@ -1,16 +1,16 @@
 {
-    "version": "4.4.2.10",
+    "version": "4.4.4.10",
     "description": "[Unofficial] qBittorrent Enhanced, based on qBittorrent",
     "homepage": "https://github.com/c0re100/qBittorrent-Enhanced-Edition",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.4.2.10/qbittorrent_enhanced_4.4.2.10_Qt6_x64_setup.exe#/dl.7z",
-            "hash": "e8cddb2a2847bdedc0d3e07acb688747f9da734a5064a047ea379ddcad4ae2da"
+            "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.4.4.10/qbittorrent_enhanced_4.4.4.10_Qt6_setup.exe#/dl.7z",
+            "hash": "73c96fedf6672bd766a77d29a04fd7a233bc099b1d4368b1720ab5c2a69e24eb"
         },
         "32bit": {
-            "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.4.2.10/qbittorrent_enhanced_4.4.2.10_setup.exe#/dl.7z",
-            "hash": "5464423268ffeded3f1ef3346f8bf3960db7ab4b141d5eb01e60faf38db4be9e"
+            "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.4.4.10/qbittorrent_enhanced_4.4.4.10_setup.exe#/dl.7z",
+            "hash": "481e27fe65d3a008b47045bd3cdef7ac25c9729ab1af4da5276193b0004701e6"
         }
     },
     "pre_install": "if (!(Test-Path \"$persist_dir\\profile\\\")) { New-Item -Path \"$dir\\profile\\\" -ItemType Directory | Out-Null }",
