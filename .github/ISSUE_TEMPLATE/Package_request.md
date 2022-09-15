@@ -15,15 +15,12 @@ labels: "package-request"
 
 ### Criteria
 
-For a package to be acceptable in the Main bucket, it should be:
+For a package to be acceptable in the Extras bucket, it should be:
 
 <!-- All items need to be checked. -->
 
-- [ ] a non-GUI tool
-- [ ] a reasonably well-known and widely used developer tool
+- [ ] a well-known and widely used tool (e.g. if it's a GitHub project, it should have at least 100 stars and 50 forks)
 - [ ] the latest stable version of the program
-- [ ] the full version i.e. not a trial version
-- [ ] a fairly standard install (e.g. uses a version-specific download URL, no elaborate pre/post install scripts)
 
 ### Information
 
