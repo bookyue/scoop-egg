@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/xiph/rav1e/releases/download/p20220913/rav1e.exe",
-            "hash": "e3dc45afd3a38f18dfb73e2a647f9a62d756cf1b0a22cee30f77aea4bdf252e1"
+            "hash": "48978652b4f6d308b17ab571d4822c5fc586436a5f5645edccebc023a4ff5bde"
         }
     },
     "bin": "rav1e.exe",
