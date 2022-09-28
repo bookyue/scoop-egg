@@ -1,12 +1,12 @@
 {
-    "version": "p20220920",
+    "version": "p20220927",
     "description": "An AV1 video encoder designed to eventually cover all use cases.",
     "homepage": "https://github.com/xiph/rav1e",
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xiph/rav1e/releases/download/p20220920/rav1e.exe",
-            "hash": "284b5e7e1c070e086095999fde8fca47a0f12dfe1a3f537a6c8536c72c40b830"
+            "url": "https://github.com/xiph/rav1e/releases/download/p20220927/rav1e.exe",
+            "hash": "cfb0970dc154ff0a8e8afeecd1bc725cbe2a1481e987cd83b5ff655533b24802"
         }
     },
     "bin": "rav1e.exe",
